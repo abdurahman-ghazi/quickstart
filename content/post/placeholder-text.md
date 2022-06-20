@@ -10,9 +10,7 @@ draft: true
 ---
 باسم الله الرحمان الرحيم و به توفيقنا
 
-Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus
-silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria
-tractus malis.
+البوابة "PORT" هي نقطة تبادل المعلومات بين اجهزة الكمبيوتر 
 
 # Vagus elidunt
 
