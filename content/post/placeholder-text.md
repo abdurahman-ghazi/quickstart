@@ -1,13 +1,13 @@
 ---
-title: Placeholder Text
+title: طريقة انشاء port scanner بلغة go
 date: 2019-03-09
-hero: /images/hero-4.jpg
+hero: "/images/hero-4.jpg"
 excerpt: Lorem Ipsum Dolor Si Amet
 authors:
-  - Hugo Authors
+- Hugo Authors
+draft: true
 
 ---
-
 Lorem est tota propiore conpellat pectoribus de
 pectora summo. <!--more-->Redit teque digerit hominumque toris verebor lumina non cervice
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
